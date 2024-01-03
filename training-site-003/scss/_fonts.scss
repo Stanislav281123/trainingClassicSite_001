@@ -1,0 +1,86 @@
+h1{
+    color: var(--absolute-white, #FFF);
+    text-align: center;
+    font-family: Barlow;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: 0.15px;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.2px;
+}
+
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+}
+
+h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+h6{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.2px;
+}
+
+b{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+a{
+    color: #48555b;
+    cursor: pointer;
+}
+
+
+a:hover{
+    color: #00a4e5;
+    transition: 0.1s;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #00a4e5;
+}
+
+button:hover{
+    border: solid 1px #000;
+}
+
+button:active{
+    background-color: #008cc4;
+}
+
+
